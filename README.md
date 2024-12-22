@@ -1,4 +1,3 @@
-```markdown
 # Product Management Dashboard
 
 A React alapú webalkalmazás, amely lehetővé teszi termékek hozzáadását, módosítását, törlését és megjelenítését egy SQLite adatbázisból. Az alkalmazás front-end része React-tel készült, míg a back-end Express.js-t és SQLite-t használ az adatbázis kezelésére.
